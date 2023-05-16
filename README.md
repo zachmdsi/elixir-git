@@ -1,6 +1,6 @@
 # Git
 
-A basic implementation of Git.
+A basic implementation of Git for learning purposes.
 
 ## Installation
 
